@@ -14,11 +14,9 @@ found in the LICENSE file.
   --purple: #7b1fa2;
   --yellow: #ffeb3b;
   --green: #8bc34a;
-  --gradient: linear-gradient(
-    45deg,
-    rgba(255, 29, 17, 0.9),
-    rgba(255, 162, 6, 0.9)
-  );
+  --gradient: linear-gradient(45deg,
+      rgba(255, 29, 17, 0.9),
+      rgba(255, 162, 6, 0.9));
   --dark1: #212121;
   --dark2: #2e2e2e;
   --dark3: #484848;
