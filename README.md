@@ -27,7 +27,7 @@ npm i webments-fluent
 ### YARN
 
 ```
-
+yarn add webments-fluent
 ```
 
 ## Usage
