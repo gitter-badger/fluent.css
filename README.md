@@ -34,6 +34,9 @@ fluent.css is a lightweight, responsive and modern CSS framework.
 - Elegantly designed and developed elements and components
 
 ## Table of Contents
+
+[![Join the chat at https://gitter.im/Webments/fluent.css](https://badges.gitter.im/Webments/fluent.css.svg)](https://gitter.im/Webments/fluent.css?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - [Getting started](#gettingstarted)
 - [Documentation and Usage](#usage)
 - [Compatibility](#compatibility)
