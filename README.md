@@ -22,7 +22,7 @@
     <a aria-label="license" href="https://github.com/Webments/fluent.css/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/webments/fluent.css" alt="">
   </a>
-    <a aria-label="gitter" href="https://gitter.im/Webments/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
+    <a aria-label="gitter" href="https://gitter.im/Webments/fluent.css?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
      <img src="https://badges.gitter.im/Webments/community.svg" alt="">
   </a>
 </p>
@@ -34,9 +34,6 @@ fluent.css is a lightweight, responsive and modern CSS framework.
 - Elegantly designed and developed elements and components
 
 ## Table of Contents
-
-[![Join the chat at https://gitter.im/Webments/fluent.css](https://badges.gitter.im/Webments/fluent.css.svg)](https://gitter.im/Webments/fluent.css?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 - [Getting started](#gettingstarted)
 - [Documentation and Usage](#usage)
 - [Compatibility](#compatibility)
