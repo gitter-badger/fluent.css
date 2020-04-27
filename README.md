@@ -4,7 +4,7 @@
 
 <h3 align="center">by Webments</h3>
 <p align="center">Fluent Design is Microsoft's design language.</p>
-<p align="center">Warning: Work in Progress, do NOT use.</p>
+<h4 align="center">Warning: Work in Progress, do NOT use.</h4>
 
 [![npm](https://img.shields.io/npm/v/webments-fluent)](https://www.npmjs.com/package/webments-fluent)
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/webments-fluent)](https://www.npmjs.com/package/webments-fluent)
